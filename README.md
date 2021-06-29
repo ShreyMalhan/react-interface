@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# React Interface
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and can be found [here](https://shreymalhan.github.io/react-interface/).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Introduction
+
+I developed this interface while learning React. This app can be used as an appointment manager to keep track of all the appointments at a store (Pet clinic in this project). 
+It makes use of features like hooks and state to keep a track of each appointment and new entries to the list
 
 ### `npm start`
 
